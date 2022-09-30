@@ -1,0 +1,2239 @@
+MIME-Version: 1.0
+X-Document-Type: Workbook
+Content-Type: multipart/related; boundary="----=_NextPart_01D8D2D2.23666D70"
+
+Este documento é uma Página da Web de Arquivo Único, também conhecido como Arquivo Web.  Se você estiver lendo essa mensagem, o seu navegador ou editor não oferece suporte ao Arquivo Web. Baixe um navegador que ofereça suporte ao Arquivo Web.
+
+------=_NextPart_01D8D2D2.23666D70
+Content-Location: file:///C:/5037ADD9/EXPORT_FAMILY.htm
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="us-ascii"
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml"
+xmlns:o=3D"urn:schemas-microsoft-com:office:office"
+xmlns:x=3D"urn:schemas-microsoft-com:office:excel"
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta name=3D"Excel Workbook Frameset">
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dus-ascii">
+<meta name=3DProgId content=3DExcel.Sheet>
+<meta name=3DGenerator content=3D"Microsoft Excel 15">
+<link rel=3DFile-List href=3D"EXPORT_FAMILY_arquivos/filelist.xml">
+<![if !supportTabStrip]>
+<link id=3D"shLink" href=3D"EXPORT_FAMILY_arquivos/sheet001.htm">
+<link id=3D"shLink" href=3D"EXPORT_FAMILY_arquivos/sheet002.htm">
+<link id=3D"shLink" href=3D"EXPORT_FAMILY_arquivos/sheet003.htm">
+
+<link id=3D"shLink">
+
+<script language=3D"JavaScript">
+<!--
+ var c_lTabs=3D3;
+
+ var c_rgszSh=3Dnew Array(c_lTabs);
+ c_rgszSh[0] =3D "Sheet1";
+ c_rgszSh[1] =3D "Sheet2";
+ c_rgszSh[2] =3D "Sheet3";
+
+
+
+ var c_rgszClr=3Dnew Array(8);
+ c_rgszClr[0]=3D"window";
+ c_rgszClr[1]=3D"buttonface";
+ c_rgszClr[2]=3D"windowframe";
+ c_rgszClr[3]=3D"windowtext";
+ c_rgszClr[4]=3D"threedlightshadow";
+ c_rgszClr[5]=3D"threedhighlight";
+ c_rgszClr[6]=3D"threeddarkshadow";
+ c_rgszClr[7]=3D"threedshadow";
+
+ var g_iShCur;
+ var g_rglTabX=3Dnew Array(c_lTabs);
+
+function fnGetIEVer()
+{
+ var ua=3Dwindow.navigator.userAgent
+ var msie=3Dua.indexOf("MSIE")
+ if (msie>0 && window.navigator.platform=3D=3D"Win32")
+  return parseInt(ua.substring(msie+5,ua.indexOf(".", msie)));
+ else
+  return 0;
+}
+
+function fnBuildFrameset()
+{
+ var szHTML=3D"<frameset rows=3D\"*,18\" border=3D0 width=3D0 frameborder=
+=3Dno framespacing=3D0>"+
+  "<frame src=3D\""+document.all.item("shLink")[0].href+"\" name=3D\"frShee=
+t\" noresize>"+
+  "<frameset cols=3D\"54,*\" border=3D0 width=3D0 frameborder=3Dno framespa=
+cing=3D0>"+
+  "<frame src=3D\"\" name=3D\"frScroll\" marginwidth=3D0 marginheight=3D0 s=
+crolling=3Dno>"+
+  "<frame src=3D\"\" name=3D\"frTabs\" marginwidth=3D0 marginheight=3D0 scr=
+olling=3Dno>"+
+  "</frameset></frameset><plaintext>";
+
+ with (document) {
+  open("text/html","replace");
+  write(szHTML);
+  close();
+ }
+
+ fnBuildTabStrip();
+}
+
+function fnBuildTabStrip()
+{
+ var szHTML=3D
+  "<html><head><style>.clScroll {font:8pt Courier New;color:"+c_rgszClr[6]+=
+";cursor:default;line-height:10pt;}"+
+  ".clScroll2 {font:10pt Arial;color:"+c_rgszClr[6]+";cursor:default;line-h=
+eight:11pt;}</style></head>"+
+  "<body onclick=3D\"event.returnValue=3Dfalse;\" ondragstart=3D\"event.ret=
+urnValue=3Dfalse;\" onselectstart=3D\"event.returnValue=3Dfalse;\" bgcolor=
+=3D"+c_rgszClr[4]+" topmargin=3D0 leftmargin=3D0><table cellpadding=3D0 cel=
+lspacing=3D0 width=3D100%>"+
+  "<tr><td colspan=3D6 height=3D1 bgcolor=3D"+c_rgszClr[2]+"></td></tr>"+
+  "<tr><td style=3D\"font:1pt\">&nbsp;<td>"+
+  "<td valign=3Dtop id=3DtdScroll class=3D\"clScroll\" onclick=3D\"parent.f=
+nFastScrollTabs(0);\" onmouseover=3D\"parent.fnMouseOverScroll(0);\" onmous=
+eout=3D\"parent.fnMouseOutScroll(0);\"><a>&#171;</a></td>"+
+  "<td valign=3Dtop id=3DtdScroll class=3D\"clScroll2\" onclick=3D\"parent.=
+fnScrollTabs(0);\" ondblclick=3D\"parent.fnScrollTabs(0);\" onmouseover=3D\=
+"parent.fnMouseOverScroll(1);\" onmouseout=3D\"parent.fnMouseOutScroll(1);\=
+"><a>&lt</a></td>"+
+  "<td valign=3Dtop id=3DtdScroll class=3D\"clScroll2\" onclick=3D\"parent.=
+fnScrollTabs(1);\" ondblclick=3D\"parent.fnScrollTabs(1);\" onmouseover=3D\=
+"parent.fnMouseOverScroll(2);\" onmouseout=3D\"parent.fnMouseOutScroll(2);\=
+"><a>&gt</a></td>"+
+  "<td valign=3Dtop id=3DtdScroll class=3D\"clScroll\" onclick=3D\"parent.f=
+nFastScrollTabs(1);\" onmouseover=3D\"parent.fnMouseOverScroll(3);\" onmous=
+eout=3D\"parent.fnMouseOutScroll(3);\"><a>&#187;</a></td>"+
+  "<td style=3D\"font:1pt\">&nbsp;<td></tr></table></body></html>";
+
+ with (frames['frScroll'].document) {
+  open("text/html","replace");
+  write(szHTML);
+  close();
+ }
+
+ szHTML =3D
+  "<html><head>"+
+  "<style>A:link,A:visited,A:active {text-decoration:none;"+"color:"+c_rgsz=
+Clr[3]+";}"+
+  ".clTab {cursor:hand;background:"+c_rgszClr[1]+";font:9pt Arial;padding-l=
+eft:3px;padding-right:3px;text-align:center;}"+
+  ".clBorder {background:"+c_rgszClr[2]+";font:1pt;}"+
+  "</style></head><body onload=3D\"parent.fnInit();\" onselectstart=3D\"eve=
+nt.returnValue=3Dfalse;\" ondragstart=3D\"event.returnValue=3Dfalse;\" bgco=
+lor=3D"+c_rgszClr[4]+
+  " topmargin=3D0 leftmargin=3D0><table id=3DtbTabs cellpadding=3D0 cellspa=
+cing=3D0>";
+
+ var iCellCount=3D(c_lTabs+1)*2;
+
+ var i;
+ for (i=3D0;i<iCellCount;i+=3D2)
+  szHTML+=3D"<col width=3D1><col>";
+
+ var iRow;
+ for (iRow=3D0;iRow<6;iRow++) {
+
+  szHTML+=3D"<tr>";
+
+  if (iRow=3D=3D5)
+   szHTML+=3D"<td colspan=3D"+iCellCount+"></td>";
+  else {
+   if (iRow=3D=3D0) {
+    for(i=3D0;i<iCellCount;i++)
+     szHTML+=3D"<td height=3D1 class=3D\"clBorder\"></td>";
+   } else if (iRow=3D=3D1) {
+    for(i=3D0;i<c_lTabs;i++) {
+     szHTML+=3D"<td height=3D1 nowrap class=3D\"clBorder\">&nbsp;</td>";
+     szHTML+=3D
+      "<td id=3DtdTab height=3D1 nowrap class=3D\"clTab\" onmouseover=3D\"p=
+arent.fnMouseOverTab("+i+");\" onmouseout=3D\"parent.fnMouseOutTab("+i+");\=
+">"+
+      "<a href=3D\""+document.all.item("shLink")[i].href+"\" target=3D\"frS=
+heet\" id=3DaTab>&nbsp;"+c_rgszSh[i]+"&nbsp;</a></td>";
+    }
+    szHTML+=3D"<td id=3DtdTab height=3D1 nowrap class=3D\"clBorder\"><a id=
+=3DaTab>&nbsp;</a></td><td width=3D100%></td>";
+   } else if (iRow=3D=3D2) {
+    for (i=3D0;i<c_lTabs;i++)
+     szHTML+=3D"<td height=3D1></td><td height=3D1 class=3D\"clBorder\"></t=
+d>";
+    szHTML+=3D"<td height=3D1></td><td height=3D1></td>";
+   } else if (iRow=3D=3D3) {
+    for (i=3D0;i<iCellCount;i++)
+     szHTML+=3D"<td height=3D1></td>";
+   } else if (iRow=3D=3D4) {
+    for (i=3D0;i<c_lTabs;i++)
+     szHTML+=3D"<td height=3D1 width=3D1></td><td height=3D1></td>";
+    szHTML+=3D"<td height=3D1 width=3D1></td><td></td>";
+   }
+  }
+  szHTML+=3D"</tr>";
+ }
+
+ szHTML+=3D"</table></body></html>";
+ with (frames['frTabs'].document) {
+  open("text/html","replace");
+  charset=3Ddocument.charset;
+  write(szHTML);
+  close();
+ }
+}
+
+function fnInit()
+{
+ g_rglTabX[0]=3D0;
+ var i;
+ for (i=3D1;i<=3Dc_lTabs;i++)
+  with (frames['frTabs'].document.all.tbTabs.rows[1].cells[fnTabToCol(i-1)])
+   g_rglTabX[i]=3DoffsetLeft+offsetWidth-6;
+}
+
+function fnTabToCol(iTab)
+{
+ return 2*iTab+1;
+}
+
+function fnNextTab(fDir)
+{
+ var iNextTab=3D-1;
+ var i;
+
+ with (frames['frTabs'].document.body) {
+  if (fDir=3D=3D0) {
+   if (scrollLeft>0) {
+    for (i=3D0;i<c_lTabs&&g_rglTabX[i]<scrollLeft;i++);
+    if (i<c_lTabs)
+     iNextTab=3Di-1;
+   }
+  } else {
+   if (g_rglTabX[c_lTabs]+6>offsetWidth+scrollLeft) {
+    for (i=3D0;i<c_lTabs&&g_rglTabX[i]<=3DscrollLeft;i++);
+    if (i<c_lTabs)
+     iNextTab=3Di;
+   }
+  }
+ }
+ return iNextTab;
+}
+
+function fnScrollTabs(fDir)
+{
+ var iNextTab=3DfnNextTab(fDir);
+
+ if (iNextTab>=3D0) {
+  frames['frTabs'].scroll(g_rglTabX[iNextTab],0);
+  return true;
+ } else
+  return false;
+}
+
+function fnFastScrollTabs(fDir)
+{
+ if (c_lTabs>16)
+  frames['frTabs'].scroll(g_rglTabX[fDir?c_lTabs-1:0],0);
+ else
+  if (fnScrollTabs(fDir)>0) window.setTimeout("fnFastScrollTabs("+fDir+");"=
+,5);
+}
+
+function fnSetTabProps(iTab,fActive)
+{
+ var iCol=3DfnTabToCol(iTab);
+ var i;
+
+ if (iTab>=3D0) {
+  with (frames['frTabs'].document.all) {
+   with (tbTabs) {
+    for (i=3D0;i<=3D4;i++) {
+     with (rows[i]) {
+      if (i=3D=3D0)
+       cells[iCol].style.background=3Dc_rgszClr[fActive?0:2];
+      else if (i>0 && i<4) {
+       if (fActive) {
+        cells[iCol-1].style.background=3Dc_rgszClr[2];
+        cells[iCol].style.background=3Dc_rgszClr[0];
+        cells[iCol+1].style.background=3Dc_rgszClr[2];
+       } else {
+        if (i=3D=3D1) {
+         cells[iCol-1].style.background=3Dc_rgszClr[2];
+         cells[iCol].style.background=3Dc_rgszClr[1];
+         cells[iCol+1].style.background=3Dc_rgszClr[2];
+        } else {
+         cells[iCol-1].style.background=3Dc_rgszClr[4];
+         cells[iCol].style.background=3Dc_rgszClr[(i=3D=3D2)?2:4];
+         cells[iCol+1].style.background=3Dc_rgszClr[4];
+        }
+       }
+      } else
+       cells[iCol].style.background=3Dc_rgszClr[fActive?2:4];
+     }
+    }
+   }
+   with (aTab[iTab].style) {
+    cursor=3D(fActive?"default":"hand");
+    color=3Dc_rgszClr[3];
+   }
+  }
+ }
+}
+
+function fnMouseOverScroll(iCtl)
+{
+ frames['frScroll'].document.all.tdScroll[iCtl].style.color=3Dc_rgszClr[7];
+}
+
+function fnMouseOutScroll(iCtl)
+{
+ frames['frScroll'].document.all.tdScroll[iCtl].style.color=3Dc_rgszClr[6];
+}
+
+function fnMouseOverTab(iTab)
+{
+ if (iTab!=3Dg_iShCur) {
+  var iCol=3DfnTabToCol(iTab);
+  with (frames['frTabs'].document.all) {
+   tdTab[iTab].style.background=3Dc_rgszClr[5];
+  }
+ }
+}
+
+function fnMouseOutTab(iTab)
+{
+ if (iTab>=3D0) {
+  var elFrom=3Dframes['frTabs'].event.srcElement;
+  var elTo=3Dframes['frTabs'].event.toElement;
+
+  if ((!elTo) ||
+   (elFrom.tagName=3D=3DelTo.tagName) ||
+   (elTo.tagName=3D=3D"A" && elTo.parentElement!=3DelFrom) ||
+   (elFrom.tagName=3D=3D"A" && elFrom.parentElement!=3DelTo)) {
+
+   if (iTab!=3Dg_iShCur) {
+    with (frames['frTabs'].document.all) {
+     tdTab[iTab].style.background=3Dc_rgszClr[1];
+    }
+   }
+  }
+ }
+}
+
+function fnSetActiveSheet(iSh)
+{
+ if (iSh!=3Dg_iShCur) {
+  fnSetTabProps(g_iShCur,false);
+  fnSetTabProps(iSh,true);
+  g_iShCur=3DiSh;
+ }
+}
+
+ window.g_iIEVer=3DfnGetIEVer();
+ if (window.g_iIEVer>=3D4)
+  fnBuildFrameset();
+//-->
+</script>
+<![endif]><!--[if gte mso 9]><xml>
+ <x:ExcelWorkbook>
+  <x:ExcelWorksheets>
+   <x:ExcelWorksheet>
+    <x:Name>Sheet1</x:Name>
+    <x:WorksheetSource HRef=3D"EXPORT_FAMILY_arquivos/sheet001.htm"/>
+   </x:ExcelWorksheet>
+   <x:ExcelWorksheet>
+    <x:Name>Sheet2</x:Name>
+    <x:WorksheetSource HRef=3D"EXPORT_FAMILY_arquivos/sheet002.htm"/>
+   </x:ExcelWorksheet>
+   <x:ExcelWorksheet>
+    <x:Name>Sheet3</x:Name>
+    <x:WorksheetSource HRef=3D"EXPORT_FAMILY_arquivos/sheet003.htm"/>
+   </x:ExcelWorksheet>
+  </x:ExcelWorksheets>
+  <x:Stylesheet HRef=3D"EXPORT_FAMILY_arquivos/stylesheet.css"/>
+  <x:WindowHeight>10740</x:WindowHeight>
+  <x:WindowWidth>28800</x:WindowWidth>
+  <x:WindowTopX>32767</x:WindowTopX>
+  <x:WindowTopY>32767</x:WindowTopY>
+  <x:ProtectStructure>False</x:ProtectStructure>
+  <x:ProtectWindows>False</x:ProtectWindows>
+ </x:ExcelWorkbook>
+</xml><![endif]-->
+</head>
+
+<frameset rows=3D"*,39" border=3D0 width=3D0 frameborder=3Dno framespacing=
+=3D0>
+ <frame src=3D"EXPORT_FAMILY_arquivos/sheet001.htm" name=3D"frSheet">
+ <frame src=3D"EXPORT_FAMILY_arquivos/tabstrip.htm" name=3D"frTabs" marginw=
+idth=3D0 marginheight=3D0>
+ <noframes>
+  <body>
+   <p>Esta p&aacute;gina usa quadros, mas o seu navegador n&atilde;o d&aacu=
+te; suporte para eles.</p>
+  </body>
+ </noframes>
+</frameset>
+</html>
+
+------=_NextPart_01D8D2D2.23666D70
+Content-Location: file:///C:/5037ADD9/EXPORT_FAMILY_arquivos/stylesheet.css
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/css; charset="us-ascii"
+
+tr
+	{mso-height-source:auto;}
+col
+	{mso-width-source:auto;}
+br
+	{mso-data-placement:same-cell;}
+.style0
+	{mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	white-space:nowrap;
+	mso-rotate:0;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border:none;
+	mso-protection:locked visible;
+	mso-style-name:Normal;
+	mso-style-id:0;}
+td
+	{mso-style-parent:style0;
+	padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	border:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	mso-protection:locked visible;
+	white-space:nowrap;
+	mso-rotate:0;}
+.xl65
+	{mso-style-parent:style0;
+	border:.5pt solid windowtext;
+	background:#DDDDDD;
+	mso-pattern:black none;}
+
+------=_NextPart_01D8D2D2.23666D70
+Content-Location: file:///C:/5037ADD9/EXPORT_FAMILY_arquivos/tabstrip.htm
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="us-ascii"
+
+<html>
+<head>
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dus-ascii">
+<meta name=3DProgId content=3DExcel.Sheet>
+<meta name=3DGenerator content=3D"Microsoft Excel 15">
+<link id=3DMain-File rel=3DMain-File href=3D"../EXPORT_FAMILY.htm">
+<![if IE]>
+<base href=3D"file:///C:/5037ADD9/EXPORT_FAMILY_arquivos/tabstrip.htm"
+id=3D"webarch_temp_base_tag">
+<![endif]>
+<script language=3D"JavaScript">
+<!--
+if (window.name!=3D"frTabs")
+ window.location.replace(document.all.item("Main-File").href);
+//-->
+</script>
+<style>
+<!--
+A {
+    text-decoration:none;
+    color:#000000;
+    font-size:9pt;
+}
+-->
+</style>
+</head>
+<body topmargin=3D0 leftmargin=3D0 bgcolor=3D"#808080">
+<table border=3D0 cellspacing=3D1>
+ <tr>
+ <td bgcolor=3D"#FFFFFF" nowrap><b><small><small>&nbsp;<a href=3D"sheet001.=
+htm" target=3D"frSheet"><font face=3D"Arial" color=3D"#000000">Sheet1</font=
+></a>&nbsp;</small></small></b></td>
+ <td bgcolor=3D"#FFFFFF" nowrap><b><small><small>&nbsp;<a href=3D"sheet002.=
+htm" target=3D"frSheet"><font face=3D"Arial" color=3D"#000000">Sheet2</font=
+></a>&nbsp;</small></small></b></td>
+ <td bgcolor=3D"#FFFFFF" nowrap><b><small><small>&nbsp;<a href=3D"sheet003.=
+htm" target=3D"frSheet"><font face=3D"Arial" color=3D"#000000">Sheet3</font=
+></a>&nbsp;</small></small></b></td>
+
+ </tr>
+</table>
+</body>
+</html>
+
+------=_NextPart_01D8D2D2.23666D70
+Content-Location: file:///C:/5037ADD9/EXPORT_FAMILY_arquivos/sheet001.htm
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="us-ascii"
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml"
+xmlns:o=3D"urn:schemas-microsoft-com:office:office"
+xmlns:x=3D"urn:schemas-microsoft-com:office:excel"
+xmlns:alv=3D"http://www.sap.com/ALV/2.6" xmlns:asx=3D"http://www.sap.com/ab=
+apxml"
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dus-ascii">
+<meta name=3DProgId content=3DExcel.Sheet>
+<meta name=3DGenerator content=3D"Microsoft Excel 15">
+<link id=3DMain-File rel=3DMain-File href=3D"../EXPORT_FAMILY.htm">
+<link rel=3DFile-List href=3Dfilelist.xml>
+<![if IE]>
+<base href=3D"file:///C:/5037ADD9/EXPORT_FAMILY_arquivos/sheet001.htm"
+id=3D"webarch_temp_base_tag">
+<![endif]>
+<link rel=3DStylesheet href=3Dstylesheet.css>
+<style>
+<!--table
+	{mso-displayed-decimal-separator:"\,";
+	mso-displayed-thousand-separator:"\.";}
+@page
+	{margin:1.0in .75in 1.0in .75in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;}
+-->
+</style>
+<![if !supportTabStrip]><script language=3D"JavaScript">
+<!--
+function fnUpdateTabs()
+ {
+  if (parent.window.g_iIEVer>=3D4) {
+   if (parent.document.readyState=3D=3D"complete"
+    && parent.frames['frTabs'].document.readyState=3D=3D"complete")
+   parent.fnSetActiveSheet(0);
+  else
+   window.setTimeout("fnUpdateTabs();",150);
+ }
+}
+
+if (window.name!=3D"frSheet")
+ window.location.replace("../EXPORT_FAMILY.htm");
+else
+ fnUpdateTabs();
+//-->
+</script>
+<![endif]>
+</head>
+
+<body link=3Dblue vlink=3Dpurple>
+
+<table border=3D0 cellpadding=3D0 cellspacing=3D0 width=3D7529 style=3D'bor=
+der-collapse:
+ collapse;table-layout:fixed;width:5647pt'>
+ <col width=3D320 span=3D4 style=3D'mso-width-source:userset;mso-width-alt:=
+11702;
+ width:240pt'>
+ <col width=3D73 style=3D'mso-width-source:userset;mso-width-alt:2669;width=
+:55pt'>
+ <col width=3D320 style=3D'mso-width-source:userset;mso-width-alt:11702;wid=
+th:240pt'>
+ <col width=3D96 style=3D'mso-width-source:userset;mso-width-alt:3510;width=
+:72pt'>
+ <col width=3D80 span=3D72 style=3D'width:60pt'>
+ <tr height=3D17 style=3D'height:12.75pt' xmlns=3D"">
+  <td height=3D17 class=3Dxl65 width=3D320 style=3D'height:12.75pt;width:24=
+0pt'>Grupo</td>
+  <td class=3Dxl65 width=3D320 style=3D'border-left:none;width:240pt'>CodFa=
+m</td>
+  <td class=3Dxl65 width=3D320 style=3D'border-left:none;width:240pt'>Fam&i=
+acute;liaNew</td>
+  <td class=3Dxl65 width=3D320 style=3D'border-left:none;width:240pt'>Fam&i=
+acute;lia</td>
+  <td class=3Dxl65 width=3D73 style=3D'border-left:none;width:55pt'>Segment=
+o</td>
+  <td class=3Dxl65 width=3D320 style=3D'border-left:none;width:240pt'>Escop=
+o</td>
+  <td class=3Dxl65 width=3D96 style=3D'border-left:none;width:72pt'>Tipo da
+  Fam&iacute;lia</td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt' xmlns=3D"">
+  <td height=3D17 style=3D'height:12.75pt'>M-23 - Maquinaria para a
+  ind&uacute;stria de manufatura e de <span style=3D'display:none'>processo=
+</span></td>
+  <td>98012625</td>
+  <td>[LCF] Offshore - Printed Circuit Heat Exchanger</td>
+  <td>98012625 - [LCF] Offshore - Printed Circuit Heat Excha<span
+  style=3D'display:none'>nger</span></td>
+  <td>Estrat&eacute;gica</td>
+  <td colspan=3D9 style=3D'mso-ignore:colspan'>Printed Circuit Heat Exchang=
+ers are
+  a diffusion bonded heat exchanger intended to application in gas compress=
+ion
+  cooling and gas dew point control system.</td>
+  <td colspan=3D65 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt' xmlns=3D"">
+  <td height=3D17 style=3D'height:12.75pt'>M-23 - Maquinaria para a
+  ind&uacute;stria de manufatura e de <span style=3D'display:none'>processo=
+</span></td>
+  <td>98012635</td>
+  <td>[LCF] Offshore - Mooring System</td>
+  <td>98012635 - [LCF] Offshore - Mooring System</td>
+  <td>Estrat&eacute;gica</td>
+  <td colspan=3D43 style=3D'mso-ignore:colspan'>Mooring system is composed =
+by
+  equipment and accessories with the purpose to provide the necessary
+  tensioning for the FPSO mooring lines to keep the UNIT on the designed of=
+fset
+  position at the location.<br>
+    Mooring System main equipment are listed as the following:<br>
+    a. Mooring winches (chain jacks) for the chain haul-in and payout from =
+/ to
+  the AHTS or seabed after FPSO hook-up operation.<br>
+    b. Chain stoppers<br>
+    c. Chain lockers<br>
+    d. Hydraulic power units (HPU)<br>
+    e. Underwater fairleads<br>
+    f. Mooring top, messenger and installation chains and cables.<br>
+    Remaining information detailed on I-ET-3010.1Y-5139-390-P4X-004 &#8211;
+  MOORING SYSTEM.</td>
+  <td colspan=3D31 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt' xmlns=3D"">
+  <td height=3D17 style=3D'height:12.75pt'>M-23 - Maquinaria para a
+  ind&uacute;stria de manufatura e de <span style=3D'display:none'>processo=
+</span></td>
+  <td>98012637</td>
+  <td>[LCF] Offshore - Well Service Pumps</td>
+  <td>98012637 - [LCF] Offshore - Well Service Pumps</td>
+  <td>Estrat&eacute;gica</td>
+  <td colspan=3D7 style=3D'mso-ignore:colspan'>Well Service Pumps are the
+  reciprocating pumps used for providing high pressure liquid for various
+  operations of well preparation.</td>
+  <td colspan=3D67 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt' xmlns=3D"">
+  <td height=3D17 style=3D'height:12.75pt'>M-23 - Maquinaria para a
+  ind&uacute;stria de manufatura e de <span style=3D'display:none'>processo=
+</span></td>
+  <td>98012644</td>
+  <td>[LCF] Offshore - Main Injection Water Pump</td>
+  <td>98012644 - [LCF] Offshore - Main Injection Water Pum<span
+  style=3D'display:none'>p</span></td>
+  <td>Estrat&eacute;gica</td>
+  <td colspan=3D24 style=3D'mso-ignore:colspan'>Main Injection Water Pumps =
+are the
+  equipment used for providing the greatest part of hydraulic energy necess=
+ary
+  to the water flow, after it has been treated, enabling it to be directed =
+to
+  the injection wells.<br>
+    Notes: 1) This specification does not apply for Injection Water Booster
+  Pumps, responsible for pre-pressurizing the water flow upstream the Main
+  Injection Water Pumps.</td>
+  <td colspan=3D50 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt' xmlns=3D"">
+  <td height=3D17 style=3D'height:12.75pt'>M-23 - Maquinaria para a
+  ind&uacute;stria de manufatura e de <span style=3D'display:none'>processo=
+</span></td>
+  <td>98012664</td>
+  <td>[LCF] Offshore - Flare</td>
+  <td>98012664 - [LCF] Offshore - Flare</td>
+  <td>Estrat&eacute;gica</td>
+  <td colspan=3D72 style=3D'mso-ignore:colspan'>Flare Systems are systems i=
+ntended
+  to provide safe disposal of hydrocarbons and other gases by adequate
+  combustion. The flare system comprises at minimum the following
+  equipment.<br>
+    &#8226; Burner Manifolds and Flares Burners<br>
+    &#8226; Support and Access Structure for Burner Maintenance<br>
+    &#8226; Retractable devices for flare disassembly<br>
+    &#8226; Flare Ignition &amp; Monitoring Panel<br>
+    &#8226; Ignition Systems: pilot ignition system and flame ignition
+  system<br>
+    &#8226; Heat shields<br>
+    &#8226; Windproof Pilots<br>
+    &#8226; Individual Pilot Flame Monitoring System (Thermocouple/Sound<br>
+    Signature/Flame Ionization/Other)<br>
+    &#8226; Backup pilot burners fuel supply system<br>
+    &#8226; Staging Manifold with Turndown Control System (QOVs, manual blo=
+ck
+  and<br>
+    bypass valves, Buckling Pin Valves, Safety Pressure Transmitters) if
+  applicable<br>
+    &#8226; Flare Turndown Control System Panel<br>
+    &#8226; Portable radiometer<br>
+    &#8226; Anemometer with wind speed and wind direction data acquisition =
+in
+  real time at<br>
+    the Unit Control System<br>
+    &#8226; Windshields<br>
+    The scope of this specification requirements is for Flare Systems as th=
+ere
+  are defined in the ISO-25457 Standard.<br>
+    Notes:<br>
+    1) This qualification does not apply for Flare Gas Recovery Units, Flare
+  Knock-out and Seal drums, and Thermal Oxidizer equipment.</td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt' xmlns=3D"">
+  <td height=3D17 style=3D'height:12.75pt'>M-23 - Maquinaria para a
+  ind&uacute;stria de manufatura e de <span style=3D'display:none'>processo=
+</span></td>
+  <td>98012666</td>
+  <td>[LCF] Offshore - Diesel-Hydraulic Fire Water Pumping <span
+  style=3D'display:none'>Unit</span></td>
+  <td>98012666 - [LCF] Offshore - Diesel-Hydraulic Fire Wate<span
+  style=3D'display:none'>r Pumping Unit</span></td>
+  <td>Estrat&eacute;gica</td>
+  <td colspan=3D29 style=3D'mso-ignore:colspan'>Diesel-hydraulic fire water=
+ pumping
+  units are used to supply sea water to all fixed water and foam firefighti=
+ng
+  consumers of the installation, as well as hydrants for firefighting.<br>
+    The pumping units are composed of a centrifugal submerged lift pump, dr=
+iven
+  by hydraulic power motor, and a fire rated self-ventilated enclosure,
+  comprising centrifugal booster pump, Diesel engine driver, hydraulic power
+  pack, starting batteries, and control panels.</td>
+  <td colspan=3D45 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt' xmlns=3D"">
+  <td height=3D17 style=3D'height:12.75pt'>M-23 - Maquinaria para a
+  ind&uacute;stria de manufatura e de <span style=3D'display:none'>processo=
+</span></td>
+  <td>98012674</td>
+  <td>[LCF] Offshore - Air compression units (oil free screw a<span
+  style=3D'display:none'>nd centrifugal compressor)</span></td>
+  <td>98012674 - [LCF] Offshore - Air compression units (oil f<span
+  style=3D'display:none'>ree screw and centrifugal compressor)</span></td>
+  <td>Estrat&eacute;gica</td>
+  <td colspan=3D33 style=3D'mso-ignore:colspan'>Air compression units are u=
+sed to
+  compress atmospheric air to the system of instrument and service air for
+  floating production units, associated with air drying units, which will
+  specify the compressed air according to the quality parameters mentioned =
+on
+  the attachment of Annex I.<br>
+    Air compression system will be composed of air compression units with
+  integrally geared centrifugal compressors of higher capacity and air
+  compression units with screw type oil-free compressors of lower capacity.=
+</td>
+  <td colspan=3D41 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt' xmlns=3D"">
+  <td height=3D17 style=3D'height:12.75pt'>M-23 - Maquinaria para a
+  ind&uacute;stria de manufatura e de <span style=3D'display:none'>processo=
+</span></td>
+  <td>98012684</td>
+  <td>[LCF] Offshore - Gas Turbines</td>
+  <td>98012684 - [LCF] Offshore - Gas Turbines</td>
+  <td>Estrat&eacute;gica</td>
+  <td colspan=3D15 style=3D'mso-ignore:colspan'>This family of PETROBRAS Ve=
+ndor
+  List presents all models of industrial and aeroderivative gas turbines
+  technically qualified to be used as a driver equipment in power generator
+  sets or mechanical drive applications for offshore production units.</td>
+  <td colspan=3D59 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt' xmlns=3D"">
+  <td height=3D17 style=3D'height:12.75pt'>M-23 - Maquinaria para a
+  ind&uacute;stria de manufatura e de <span style=3D'display:none'>processo=
+</span></td>
+  <td>98012685</td>
+  <td>[LCF] Offshore - Offshore Pedestal-Mounted Cranes wit<span
+  style=3D'display:none'>h Electric-Driven</span></td>
+  <td>98012685 - [LCF] Offshore - Offshore Pedestal-Mounte<span
+  style=3D'display:none'>d Cranes with Electric-Driven</span></td>
+  <td>Estrat&eacute;gica</td>
+  <td colspan=3D9 style=3D'mso-ignore:colspan'>The crane will be used for
+  operations of transfer of load and personnel between the offshore
+  installation and supply boats, lifting and moving loads on the deck.</td>
+  <td colspan=3D65 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt' xmlns=3D"">
+  <td height=3D17 style=3D'height:12.75pt'>M-23 - Maquinaria para a
+  ind&uacute;stria de manufatura e de <span style=3D'display:none'>processo=
+</span></td>
+  <td>98012686</td>
+  <td>[LCF] Offshore - Sea Water Lift Pumps</td>
+  <td>98012686 - [LCF] Offshore - Sea Water Lift Pumps</td>
+  <td>Estrat&eacute;gica</td>
+  <td colspan=3D5 style=3D'mso-ignore:colspan'>Sea Water Lift are the equip=
+ment
+  used for collecting raw sea water to be used in various processes in the
+  FPSO.</td>
+  <td colspan=3D69 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt' xmlns=3D"">
+  <td height=3D17 style=3D'height:12.75pt'>M-23 - Maquinaria para a
+  ind&uacute;stria de manufatura e de <span style=3D'display:none'>processo=
+</span></td>
+  <td>98012687</td>
+  <td>[LCF] Offshore - Multiplexed Hydraulic Power Unit (HP<span
+  style=3D'display:none'>U subsea)</span></td>
+  <td>98012687 - [LCF] Offshore - Multiplexed Hydraulic Pow<span
+  style=3D'display:none'>er Unit (HPU subsea)</span></td>
+  <td>Estrat&eacute;gica</td>
+  <td colspan=3D38 style=3D'mso-ignore:colspan'>The Multiplexed Hydraulic P=
+ower
+  Unit, namely Multiplexed HPU, is mounted in one or more skids, typically:
+  reservoirs skid, pumps skid and accumulators&#8217; skid. The Multiplexed=
+ HPU
+  has the goal of generating hydraulic power for actuating hydraulic actuat=
+ed
+  valves in subsea equipment, such as: Wet Christmas Tree (WCT), manifolds =
+etc,
+  equipped with electro-hydraulic multiplexed control system. The Multiplex=
+ed
+  HPU can also actuate subsea shutdown valves (ESDVs), installed close to t=
+he
+  production unit, and wells or other equipment with direct hydraulic contr=
+ol.</td>
+  <td colspan=3D36 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt' xmlns=3D"">
+  <td height=3D17 style=3D'height:12.75pt'>M-23 - Maquinaria para a
+  ind&uacute;stria de manufatura e de <span style=3D'display:none'>processo=
+</span></td>
+  <td>98012688</td>
+  <td>[LCF] Offshore - Offloading System</td>
+  <td>98012688 - [LCF] Offshore - Offloading System</td>
+  <td>Estrat&eacute;gica</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'>Offloading system is compos=
+ed by
+  equipment and accessories with the purpose to provide the necessary
+  conditions for the FPSO crude oil offshore loading to the shuttle
+  tankers.<br>
+    <br>
+    Offloading System main equipment are listed as the following:<br>
+    <br>
+    a. Hose Reels with the offloading hose strings<br>
+    b. Hawser Winches with chafe chains and messenger lines<br>
+    c. Hydraulic power units (HPU)<br>
+    d. Emergency offloading station<br>
+    e. Hose messenger winch</td>
+  <td colspan=3D44 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt' xmlns=3D"">
+  <td height=3D17 style=3D'height:12.75pt'>M-23 - Maquinaria para a
+  ind&uacute;stria de manufatura e de <span style=3D'display:none'>processo=
+</span></td>
+  <td>98012704</td>
+  <td>[LCF] Offshore - Mechanical Refrigeration Unit</td>
+  <td>98012704 - [LCF] Offshore - Mechanical Refrigeration U<span
+  style=3D'display:none'>nit</span></td>
+  <td>Estrat&eacute;gica</td>
+  <td colspan=3D27 style=3D'mso-ignore:colspan'>The Mechanical Refrigeratio=
+n Unit
+  consists of a gas chiller and all required equipment to condensate the
+  vaporized refrigerant in a closed circuit.<br>
+    In addition, vendor scope includes accessories, valves, piping,
+  instruments, PLC based automation system and any additional equipment
+  necessary to guarantee adequate operation of the Mechanical Refrigeration
+  Unit, including interconnections between the skids.</td>
+  <td colspan=3D47 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt' xmlns=3D"">
+  <td height=3D17 style=3D'height:12.75pt'>M-23 - Maquinaria para a
+  ind&uacute;stria de manufatura e de <span style=3D'display:none'>processo=
+</span></td>
+  <td>98012724</td>
+  <td>[LCF] Offshore - Plate Heat Exchanger for Process Pla<span
+  style=3D'display:none'>nt and Cooling Water System</span></td>
+  <td>98012724 - [LCF] Offshore - Plate Heat Exchanger for <span
+  style=3D'display:none'>Process Plant and Cooling Water System</span></td>
+  <td>Estrat&eacute;gica</td>
+  <td colspan=3D15 style=3D'mso-ignore:colspan'>Plate Heat Exchanger for Pr=
+ocess
+  Plant and Cooling Water System comprises<br>
+    Gasketed Plate and Frame Heat Exchangers intended to hydrocarbon servic=
+es
+  and water coolers.<br>
+    Note:<br>
+    1) This qualification does not apply for auxiliary systems.</td>
+  <td colspan=3D59 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt' xmlns=3D"">
+  <td height=3D17 style=3D'height:12.75pt'>M-23 - Maquinaria para a
+  ind&uacute;stria de manufatura e de <span style=3D'display:none'>processo=
+</span></td>
+  <td>98012725</td>
+  <td>[LCF] Offshore - Hydrocyclone System</td>
+  <td>98012725 - [LCF] Offshore - Hydrocyclone System</td>
+  <td>Estrat&eacute;gica</td>
+  <td colspan=3D8 style=3D'mso-ignore:colspan'>Hydrocyclone System to be us=
+ed to
+  separate oil and water from the outlet oily water from the Produced Water
+  Flash Drum, where is previously degassed.</td>
+  <td colspan=3D66 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt' xmlns=3D"">
+  <td height=3D17 style=3D'height:12.75pt'>M-23 - Maquinaria para a
+  ind&uacute;stria de manufatura e de <span style=3D'display:none'>processo=
+</span></td>
+  <td>98012734</td>
+  <td>[LCF] Offshore - Ultrafiltration Unit</td>
+  <td>98012734 - [LCF] Offshore - Ultrafiltration Unit</td>
+  <td>Estrat&eacute;gica</td>
+  <td colspan=3D74 style=3D'mso-ignore:colspan'>The ULTRAFILTRATION UNIT sh=
+all
+  consist of a complete unit operating with the following equipment:<br>
+    <br>
+    - Ultrafiltration membranes and membrane pressure vessels (membrane tra=
+ins
+  is a group of membrane vessels / racks);<br>
+    - Spare trains;<br>
+    - Chemical enhanced backwash system (CEB) and Chemical dosing system.<b=
+r>
+    <br>
+    The CEB scope of supply shall include, but not limited to, the
+  following<br>
+    equipment:<br>
+    <br>
+    - 2 x 100% Blowers (Air Scrubbing), as required;<br>
+    - 3 x 50% backwashing pumps;<br>
+    - 1 x 100 % backwashing tank;<br>
+    - Chemical products tanks, one (1 x 100%) for each chemical product;<br>
+    - Two (2 x 100 %) electrically driven dosing pumps shall be provided for
+  eachtank of chemical product;<br>
+    - Electrical mixer as required.<br>
+    - Cleaning in place system (CIP);<br>
+    <br>
+    The CIP scope of supply shall include, but not limited to, the following
+  equipment:<br>
+    <br>
+    - Two (2 x 100%) CIP circulation tanks;<br>
+    - Electric CIP Heaters (2 x 100 %);<br>
+    - Membrane CIP Pumps (2 x 100 %);<br>
+    - CIP Filter (2 x 100%).<br>
+    - Control panel (PN-UT-1251001);<br>
+    - Seawater, ultrafiltered water and brine metering;<br>
+    - On-line free chlorine analyzer on ultrafiltered water;<br>
+    - Pneumatically driven pumps as required.</td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt' xmlns=3D"">
+  <td height=3D17 style=3D'height:12.75pt'>M-23 - Maquinaria para a
+  ind&uacute;stria de manufatura e de <span style=3D'display:none'>processo=
+</span></td>
+  <td>98012744</td>
+  <td>[LCF] Offshore - Vacuum Deaerator Unit</td>
+  <td>98012744 - [LCF] Offshore - Vacuum Deaerator Unit</td>
+  <td>Estrat&eacute;gica</td>
+  <td colspan=3D46 style=3D'mso-ignore:colspan'>The Unit must reduce O2 con=
+tent
+  from 7 ppm to 50 ppb, without the injection of oxygen scavenger. Required
+  specification of 10 ppb O2 in injection water shall be achieved through t=
+he
+  injection of oxygen scavenger. The unit shall be able to treat seawater. =
+The
+  Vacuum Deaeration Unit shall consist of a complete unit operating with the
+  following equipment:<br>
+    <br>
+    &middot; Vacuum Deaerator Column;<br>
+    &middot; Vacuum System.<br>
+    <br>
+    The Vacuum System scope of supply shall include, but not limited to, the
+  following equipment:<br>
+    <br>
+    &middot; 1 x 100% Atmospheric Air Ejector;<br>
+    &middot; 2 x 100% Vacuum pump, Liquid Ring type;<br>
+    &middot; 2 x 100% Vacuum pump motors;<br>
+    &middot; 1 x 100% Discharge Separator Tank;<br>
+    &middot; 1 x 100% Unit Control panel.</td>
+  <td colspan=3D28 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt' xmlns=3D"">
+  <td height=3D17 style=3D'height:12.75pt'>M-23 - Maquinaria para a
+  ind&uacute;stria de manufatura e de <span style=3D'display:none'>processo=
+</span></td>
+  <td>98012745</td>
+  <td>[LCF] Offshore - Membranes for CO2 Removal Unit</td>
+  <td>98012745 - [LCF] Offshore - Membranes for CO2 Remo<span style=3D'disp=
+lay:
+  none'>val Unit</span></td>
+  <td>Estrat&eacute;gica</td>
+  <td colspan=3D15 style=3D'mso-ignore:colspan'>Membranes to be installed i=
+n CO2
+  Removal Units for treatment of Natural Gas<br>
+    containing 5%mol. to 60%mol. of CO2, obtaining a residual gas with a
+  maximum of 3%mol of CO2 and meeting the performance requirements containe=
+d in
+  Annex 1.</td>
+  <td colspan=3D59 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt' xmlns=3D"">
+  <td height=3D17 style=3D'height:12.75pt'>M-23 - Maquinaria para a
+  ind&uacute;stria de manufatura e de <span style=3D'display:none'>processo=
+</span></td>
+  <td>98012754</td>
+  <td>[LCF] Offshore - Electrostatic Treater Internals</td>
+  <td>98012754 - [LCF] Offshore - Electrostatic Treater Intern<span
+  style=3D'display:none'>als</span></td>
+  <td>Estrat&eacute;gica</td>
+  <td colspan=3D53 style=3D'mso-ignore:colspan'>The Electrostatic Treater I=
+nternals
+  consists of electrodes grids, a crude inlet distributor, oil collectors a=
+nd
+  all other vessel internals required to coalesce and remove emulsified wat=
+er
+  from the produced crude oil, and to lower salinity of the same crude oil =
+as
+  well. The Electrostatic Treater Internals scope includes, but isn&#8217;t
+  limited to, the following parts.<br>
+    <br>
+    1. Electrode grid(s)<br>
+    2. Crude inlet distributor(s)<br>
+    3. Oil collector(s)<br>
+    4. Baffle(s)<br>
+    5. Stilling well(s)<br>
+    <br>
+    Vendor may propose another electrostatic treater internals, but the
+  proposal shall be submitted to Petrobras approval.<br>
+    <br>
+    In addition, vendor scope includes accessories, internal piping,
+  instruments, PLC based automation system and any additional equipment
+  necessary to guarantee adequate operation of the Electrostatic Treaters.<=
+/td>
+  <td colspan=3D21 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt' xmlns=3D"">
+  <td height=3D17 style=3D'height:12.75pt'>M-23 - Maquinaria para a
+  ind&uacute;stria de manufatura e de <span style=3D'display:none'>processo=
+</span></td>
+  <td>98012755</td>
+  <td>[LCF] Offshore - Production Separator, Test Separator <span
+  style=3D'display:none'>and Atmospheric Separator &#8211; Internals and Pr=
+oc</span></td>
+  <td>98012755 - [LCF] Offshore - Production Separator, Test<span
+  style=3D'display:none'> Separator and Atmospheric Separator &#8211; Inter=
+nals
+  and Proc</span></td>
+  <td>Estrat&eacute;gica</td>
+  <td colspan=3D59 style=3D'mso-ignore:colspan'>The Production, Test and
+  Atmospheric Separators consists of two or three phase gravitational
+  separators. These equipment are required to promote a primary separation
+  among gas, crude oil and water, through several internal devices to impro=
+ve
+  the separation performance.<br>
+    <br>
+    The Separator internals scope includes, but isn&#8217;t limited to, the
+  following parts:<br>
+    <br>
+    - Primary Separation Section (Cyclone Type Anti-Foam Inlet Device)<br>
+    - Vane Type Mist Extractor<br>
+    - Vortex Breaker (Cross Plate type)<br>
+    - Wave Breaker Device<br>
+    - Sand Jet System<br>
+    - Sand Baffle<br>
+    - Weir<br>
+    - Still Baffle<br>
+    <br>
+    Vendor may propose another internals, but the proposal shall be submitt=
+ed
+  do Petrobras approval.<br>
+    <br>
+    In addition, vendor scope includes accessories, valves, piping,
+  instruments, PLC based automation system and any additional equipment
+  necessary to guarantee adequate operation of the Separators.</td>
+  <td colspan=3D15 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt' xmlns=3D"">
+  <td height=3D17 style=3D'height:12.75pt'>M-23 - Maquinaria para a
+  ind&uacute;stria de manufatura e de <span style=3D'display:none'>processo=
+</span></td>
+  <td>98012756</td>
+  <td>[LCF] Offshore - Gas Dehydration Unit (GDU) - Internal<span
+  style=3D'display:none'>s and Process Design</span></td>
+  <td>98012756 - [LCF] Offshore - Gas Dehydration Unit (GD<span
+  style=3D'display:none'>U) - Internals and Process Design</span></td>
+  <td>Estrat&eacute;gica</td>
+  <td colspan=3D17 style=3D'mso-ignore:colspan'>Triethylene Glycol (TEG) Gas
+  Dehydration Unit (GDU), including all necessary equipment, like Contactor
+  Tower, Vessels, Filters, Heat Exchangers, Regenarator Package etc, for
+  treatment of Natural Gas, obtaining a dehydrated gas with a maximum of 40
+  ppmv of H2O.</td>
+  <td colspan=3D57 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt' xmlns=3D"">
+  <td height=3D17 style=3D'height:12.75pt'>M-23 - Maquinaria para a
+  ind&uacute;stria de manufatura e de <span style=3D'display:none'>processo=
+</span></td>
+  <td>98012757</td>
+  <td>[LCF] Offshore - Molecular Sieve (Zeolite)</td>
+  <td>98012757 - [LCF] Offshore - Molecular Sieve (Zeolite)</td>
+  <td>Estrat&eacute;gica</td>
+  <td colspan=3D6 style=3D'mso-ignore:colspan'>The scope of supply shall in=
+clude
+  the molecular sieve (zeolite) and the process design of the Molecular Sie=
+ve
+  Unit (MSU).</td>
+  <td colspan=3D68 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt' xmlns=3D"">
+  <td height=3D17 style=3D'height:12.75pt'>M-23 - Maquinaria para a
+  ind&uacute;stria de manufatura e de <span style=3D'display:none'>processo=
+</span></td>
+  <td>98012758</td>
+  <td>[LCF] Offshore - H2S Removal Unit - Anime</td>
+  <td>98012758 - [LCF] Offshore - H2S Removal Unit - Anime</td>
+  <td>Estrat&eacute;gica</td>
+  <td colspan=3D17 style=3D'mso-ignore:colspan'>Amine H2S Removal Unit, inc=
+luding
+  all necessary equipment, minimum of Amine Contactor, Vessels, Filters, He=
+at
+  Exchangers and<br>
+    Regeneration Package, for Natural Gas Sweeting (H2S removal), to reach =
+the
+  specification of maximum 5ppmv of H2S in treated gas.</td>
+  <td colspan=3D57 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt' xmlns=3D"">
+  <td height=3D17 style=3D'height:12.75pt'>M-23 - Maquinaria para a
+  ind&uacute;stria de manufatura e de <span style=3D'display:none'>processo=
+</span></td>
+  <td>98012759</td>
+  <td>[LCF] Offshore - Membranes for sulphate removal unit (<span
+  style=3D'display:none'>SRU)</span></td>
+  <td>98012759 - [LCF] Offshore - Membranes for sulphate re<span
+  style=3D'display:none'>moval unit (SRU)</span></td>
+  <td>Estrat&eacute;gica</td>
+  <td colspan=3D13 style=3D'mso-ignore:colspan'>The MEMBRANES FOR SULPHATE =
+REMOVAL
+  UNIT (SRU) consist of membrane elements, with the following characteristi=
+cs
+  and dimensions:<br>
+    - Membrane type: Spiral Wound<br>
+    - Diameter (in): 8<br>
+    - Length (in): 40</td>
+  <td colspan=3D61 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt' xmlns=3D"">
+  <td height=3D17 style=3D'height:12.75pt'>M-23 - Maquinaria para a
+  ind&uacute;stria de manufatura e de <span style=3D'display:none'>processo=
+</span></td>
+  <td>98012760</td>
+  <td>[LCF] Offshore - Inert Gas System</td>
+  <td>98012760 - [LCF] Offshore - Inert Gas System</td>
+  <td>Estrat&eacute;gica</td>
+  <td colspan=3D27 style=3D'mso-ignore:colspan'>Inert Gas system is compose=
+d by
+  equipment and accessories with the purpose to provide inert gas to keep a
+  safe atmosphere on the FPSO cargo oil tanks.<br>
+    <br>
+    Inert Gas System main equipment are listed as the following:<br>
+    <br>
+    a. Inert Gas Generators dual fuel (diesel / fuel gas) type<br>
+    b. Inert Gas Generators air blowers<br>
+    c. Ventilated fuel gas supply skid<br>
+    d. Deck Water Seals<br>
+    e. P/V Breakers<br>
+    f. Control panels</td>
+  <td colspan=3D47 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt' xmlns=3D"">
+  <td height=3D17 style=3D'height:12.75pt'>M-23 - Maquinaria para a
+  ind&uacute;stria de manufatura e de <span style=3D'display:none'>processo=
+</span></td>
+  <td>98012761</td>
+  <td>[LCF] Offshore - Cargo Area Submerged Pumps</td>
+  <td>98012761 - [LCF] Offshore - Cargo Area Submerged Pu<span
+  style=3D'display:none'>mps</span></td>
+  <td>Estrat&eacute;gica</td>
+  <td colspan=3D66 style=3D'mso-ignore:colspan'>Cargo Area Submerged Pumps =
+family
+  is composed by centrifugal submerged pumps with pipe stacks; the drive sy=
+stem
+  with hydraulic power units; interconnection accessories as piping, valves=
+ and
+  control devices with the purpose to pump out cargo, slop, produced water,
+  off-spec oil and water ballast from the FPSO cargo area deep structural t=
+anks
+  to different purposes as cargo oil offloading to shuttle tanker; water and
+  oil return to process plant as produced water and off-spec oil system;
+  butterworth works; cargo area tanks cleaning; slop water discharge to the=
+ sea
+  and water ballast overboard.<br>
+    <br>
+    Cargo Area Submerged Pumps main equipment are listed as the
+  following:<br>
+    <br>
+    a. Cargo pumps<br>
+    b. Produced Water Transfer / Booster pumps<br>
+    c. Off-spec Oil pumps<br>
+    d. Slop pumps, Slop Discharge pumps<br>
+    e. Oil Skimming pumps<br>
+    f. Water Ballast pumps<br>
+    g. Butterworth pumps<br>
+    h. Hydraulic Power Units / Auxiliary Power Units<br>
+    i. Control panels</td>
+  <td colspan=3D8 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt' xmlns=3D"">
+  <td height=3D17 style=3D'height:12.75pt'>M-23 - Maquinaria para a
+  ind&uacute;stria de manufatura e de <span style=3D'display:none'>processo=
+</span></td>
+  <td>98012764</td>
+  <td>[LCF] Offshore - API Std 619 Rotary Compressor for V<span
+  style=3D'display:none'>apor Recovery Unit</span></td>
+  <td>98012764 - [LCF] Offshore - API Std 619 Rotary Compr<span
+  style=3D'display:none'>essor for Vapor Recovery Unit</span></td>
+  <td>Estrat&eacute;gica</td>
+  <td colspan=3D30 style=3D'mso-ignore:colspan'>Equipment applied to increa=
+se the
+  gas pressure recovered from low pressure production separators
+  (V-TO-1223001A/B and V-TO-1223002A/B) and other low pressure sources (Slop
+  Gas Recovery Unit, Flare Gas Recovery Unit and HC Blanket Gas Recovery Un=
+it,
+  if applicable) to main gas stream conditions.<br>
+    <br>
+    Notes:<br>
+    <br>
+    1) This specification does not apply for Slop Gas Recovery Unit, Flare =
+Gas
+  Recovery Unit and HC Blanket Gas Recovery Unit, if applicable.</td>
+  <td colspan=3D44 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt' xmlns=3D"">
+  <td height=3D17 style=3D'height:12.75pt'>M-23 - Maquinaria para a
+  ind&uacute;stria de manufatura e de <span style=3D'display:none'>processo=
+</span></td>
+  <td>98012766</td>
+  <td>[LCF] Offshore - Riser Pull-in and Pull-out System</td>
+  <td>98012766 - [LCF] Offshore - Riser Pull-in and Pull-out <span
+  style=3D'display:none'>System</span></td>
+  <td>Estrat&eacute;gica</td>
+  <td colspan=3D17 style=3D'mso-ignore:colspan'>Riser Pull-in and Pull-out =
+System
+  comprises multiple components as winches, spooling device, trolley,
+  retractable sheaves, hydraulic power unit, operator cabin, and crane/over=
+head
+  crane, etc. The scope of the system and its final design depends on the O=
+ffshore
+  Unit needs.</td>
+  <td colspan=3D57 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt' xmlns=3D"">
+  <td height=3D17 style=3D'height:12.75pt'>M-23 - Maquinaria para a
+  ind&uacute;stria de manufatura e de <span style=3D'display:none'>processo=
+</span></td>
+  <td>98012834</td>
+  <td>[LCF] Internos de torres, vasos e reatores</td>
+  <td>98012834 - [LCF] Internos de torres, vasos e reatores</td>
+  <td>Estrat&eacute;gica</td>
+  <td colspan=3D62 style=3D'mso-ignore:colspan'>Esta fam&iacute;lia de mate=
+rial
+  contempla os componentes especificamente projetados para compor as torres,
+  reatores e os vasos de press&atilde;o internos de torres, reatores e de v=
+asos
+  de press&atilde;o.<br>
+    Incluem-se nesta fam&iacute;lia de material os componentes principais
+  destes equipamentos:<br>
+    &#8226; Bandeja<br>
+    &#8226; Bandeja montada<br>
+    &#8226; Chicana<br>
+    &#8226; Ciclone<br>
+    &#8226; Coalescedor<br>
+    &#8226; Defletor<br>
+    &#8226; Eliminador de n&eacute;voa<br>
+    &#8226; Pote de selagem<br>
+    &#8226; Prato borbulhador<br>
+    &#8226; Prato de distribui&ccedil;&atilde;o<br>
+    &#8226; Prato de selagem<br>
+    &#8226; Prato motriz<br>
+    N&atilde;o se incluem nesta fam&iacute;lia de material os materiais de =
+uso
+  geral (parafusos, rebites, arruelas etc. bem como tubos padronizados e ou=
+tros
+  componentes que servem a v&aacute;rios equipamentos), os quais devem ser
+  enquadrados na classe espec&iacute;fica de cada uma dessas
+  pe&ccedil;as.<br>
+    <br>
+    Tamb&eacute;m se excluem desta fam&iacute;lia de material os recheios de
+  torres de processo, os ciclones e demais componentes para unidade de
+  craqueamento catal&iacute;tico (UFCC).</td>
+  <td colspan=3D12 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt' xmlns=3D"">
+  <td height=3D17 style=3D'height:12.75pt'>M-23 - Maquinaria para a
+  ind&uacute;stria de manufatura e de <span style=3D'display:none'>processo=
+</span></td>
+  <td>98012904</td>
+  <td>[LCF] Offshore - API Std 617 Centrifugal Compressors <span
+  style=3D'display:none'>(CO2 and gas compression modules)</span></td>
+  <td>98012904 - [LCF] Offshore - API Std 617 Centrifugal Co<span
+  style=3D'display:none'>mpressors (CO2 and gas compression modules)</span>=
+</td>
+  <td>Estrat&eacute;gica</td>
+  <td colspan=3D38 style=3D'mso-ignore:colspan'>This family of PETROBRAS Ve=
+ndor
+  List is composed by OEMs qualified to supply API Std 617 centrifugal
+  compressors dedicated to increase process gas pressure to meet plant&#821=
+7;s
+  requirements, moving gas streams across gas treatment and compression sys=
+tems
+  on an offshore production unit.<br>
+    The main compressor services that adopt API 617 centrifugal compressors=
+ on
+  an offshore production unit, depending on gas plant configuration, are:<b=
+r>
+    &#8226; Main Gas Compression Unit<br>
+    &#8226; Exportation Gas Compression Unit<br>
+    &#8226; CO2 Compression Unit<br>
+    &#8226; Injection Gas Compression Unit</td>
+  <td colspan=3D36 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt' xmlns=3D"">
+  <td height=3D17 style=3D'height:12.75pt'>M-24 - Equip. e suprimentos para
+  manuseio, acondicio<span style=3D'display:none'>namento e estocagem de ma=
+terial</span></td>
+  <td>98012824</td>
+  <td>[LCF] Reator de Processo</td>
+  <td>98012824 - [LCF] Reator de Processo</td>
+  <td>Estrat&eacute;gica</td>
+  <td colspan=3D42 style=3D'mso-ignore:colspan'>Recipiente cil&iacute;ndrico
+  met&aacute;lico projetado como vaso de press&atilde;o utilizado nas
+  ind&uacute;strias de &Oacute;leo &amp; G&aacute;s e Petroqu&iacute;mica c=
+om
+  objetivo de realizar processos f&iacute;sico-qu&iacute;micos nos
+  flu&iacute;dos que circulam por ele e que pode conter internos (bandejas =
+ou
+  recheio).<br>
+    Equipamento cujo vaso de press&atilde;o possui projeto mec&acirc;nico e
+  fabrica&ccedil;&atilde;o segundo ASME BPVC Section VIII.<br>
+    N&atilde;o se incluem nesta fam&iacute;lia de material:<br>
+    &#8226; Torres de processo;<br>
+    &#8226; Equipamentos que tamb&eacute;m s&atilde;o considerados vasos de
+  press&atilde;o, mas que tem fun&ccedil;&atilde;o diferentes dos reatores =
+de
+  processo.<br>
+    &#8226; Reatores usados por ind&uacute;strias diferentes do &Oacute;leo
+  &amp; G&aacute;s e Petroqu&iacute;mica.</td>
+  <td colspan=3D32 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt' xmlns=3D"">
+  <td height=3D17 style=3D'height:12.75pt'>M-26 - Equipamentos para
+  gera&ccedil;&atilde;o e distribui&ccedil;&atilde;o de e<span
+  style=3D'display:none'>nergia</span></td>
+  <td>98012654</td>
+  <td>[LCF] Offshore - Medium Voltage Frequency Converter</td>
+  <td>98012654 - [LCF] Offshore - Medium Voltage Frequenc<span
+  style=3D'display:none'>y Converter</span></td>
+  <td>Estrat&eacute;gica</td>
+  <td colspan=3D58 style=3D'mso-ignore:colspan'>The scope of this specifica=
+tion
+  requirements is for Medium Voltage Frequency Converters as they are defin=
+ed
+  in IEC 61800-4, within the scopes and boundaries defined by IEC 61800-2 a=
+nd
+  IEC 60146-1-1.<br>
+    Notes:<br>
+    1) Frequency Converters (FC) are equipment that make it possible to
+  transform the fixed frequency and voltage of the power supply into
+  continuously adjustable frequency and voltage for controlling the rotatio=
+n of
+  electric motors.<br>
+    2) Frequency Converters (FC) are also known as Variable Frequency
+  Converters (VFC) or Variable Speed Drives (VSD).<br>
+    3) Medium Voltage Frequency Converters as defined in IEC 61800-4 are
+  drivers to which input, and output voltages are between 1 kV and 35 kV in
+  A.C.<br>
+    4) This homologation does not apply for Low Voltage Frequency Converter
+  drives.<br>
+    5) See section 5.3 for similarity conditions.</td>
+  <td colspan=3D16 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt' xmlns=3D"">
+  <td height=3D17 style=3D'height:12.75pt'>M-26 - Equipamentos para
+  gera&ccedil;&atilde;o e distribui&ccedil;&atilde;o de e<span
+  style=3D'display:none'>nergia</span></td>
+  <td>98012665</td>
+  <td>[LCF] Offshore - Three Phase Power Transformers</td>
+  <td>98012665 - [LCF] Offshore - Three Phase Power Transf<span
+  style=3D'display:none'>ormers</span></td>
+  <td>Estrat&eacute;gica</td>
+  <td colspan=3D5 style=3D'mso-ignore:colspan'>Dry Power Transformers more =
+than 1kV
+  voltage rated and equal to or more than 1MVA power rated.</td>
+  <td colspan=3D69 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt' xmlns=3D"">
+  <td height=3D17 style=3D'height:12.75pt'>M-26 - Equipamentos para
+  gera&ccedil;&atilde;o e distribui&ccedil;&atilde;o de e<span
+  style=3D'display:none'>nergia</span></td>
+  <td>98012774</td>
+  <td>[LCF] Offshore - UPS (AC/DC) for offshore floating units</td>
+  <td>98012774 - [LCF] Offshore - UPS (AC/DC) for offshore f<span
+  style=3D'display:none'>loating units</span></td>
+  <td>Estrat&eacute;gica</td>
+  <td colspan=3D12 style=3D'mso-ignore:colspan'>Uninterruptible Power Syste=
+m in
+  direct current and alternate current consisting of a combination of
+  converters, switches and energy storage devices, in order to maintain the
+  continuity of supply to the load.</td>
+  <td colspan=3D62 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt' xmlns=3D"">
+  <td height=3D17 style=3D'height:12.75pt'>M-26 - Equipamentos para
+  gera&ccedil;&atilde;o e distribui&ccedil;&atilde;o de e<span
+  style=3D'display:none'>nergia</span></td>
+  <td>98012794</td>
+  <td>[LCF] Offshore - Switchgear and Motor Control Center (<span
+  style=3D'display:none'>Medium Voltage and Low Voltage)</span></td>
+  <td>98012794 - [LCF] Offshore - Switchgear and Motor Con<span
+  style=3D'display:none'>trol Center (Medium Voltage and Low Voltage)</span=
+></td>
+  <td>Estrat&eacute;gica</td>
+  <td colspan=3D15 style=3D'mso-ignore:colspan'>Medium voltage switchgear a=
+nd motor
+  control center for rated voltage above 1kV, manufactured according to IEC
+  62271. Low voltage switchgear and motor control center for rated voltage =
+not
+  exceeding 1kV, manufactured according to IEC 61439.</td>
+  <td colspan=3D59 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt' xmlns=3D"">
+  <td height=3D17 style=3D'height:12.75pt'>M-26 - Equipamentos para
+  gera&ccedil;&atilde;o e distribui&ccedil;&atilde;o de e<span
+  style=3D'display:none'>nergia</span></td>
+  <td>98012799</td>
+  <td>[LCF] Offshore - Medium and Low Voltage Synchronou<span style=3D'disp=
+lay:
+  none'>s Generators</span></td>
+  <td>98012799 - [LCF] Offshore - Medium and Low Voltage <span
+  style=3D'display:none'>Synchronous Generators</span></td>
+  <td>Estrat&eacute;gica</td>
+  <td colspan=3D51 style=3D'mso-ignore:colspan'>Definitions:<br>
+    a) Low-Voltage Synchronous Generators &#8211; Synchronous generators ra=
+ted
+  1000 V or less;<br>
+    b) Medium-Voltage Synchronous Generators &#8211; Synchronous generators
+  rated for use with a voltage within one of the following ranges: &#8805;
+  4,000 V and &#8804; 6,900 V or &#8805; 11,000 V and &#8804; 13,800 V.<br>
+    Scope: Synchronous machine that converts the mechanical power of a prime
+  mover into electrical power and consists of two main cores made of magnet=
+ic
+  materials, namely:<br>
+    a) Stator &#8211; The stationary part of the machine. It carries the
+  three-phase armature winding, where the alternating voltage is
+  generated;<br>
+    b) Rotor &#8211; The rotating part of the machine. It carries the field
+  winding, which is supplied with direct current from a brushless PMG
+  excitation system.</td>
+  <td colspan=3D23 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt' xmlns=3D"">
+  <td height=3D17 style=3D'height:12.75pt'>M-26 - Equipamentos para
+  gera&ccedil;&atilde;o e distribui&ccedil;&atilde;o de e<span
+  style=3D'display:none'>nergia</span></td>
+  <td>98012854</td>
+  <td>[LCF] Onshore - Gerador S&iacute;ncrono (&gt; 1kV)</td>
+  <td>98012854 - [LCF] Onshore - Gerador S&iacute;ncrono (&gt; 1kV)</td>
+  <td>Estrat&eacute;gica</td>
+  <td colspan=3D9 style=3D'mso-ignore:colspan'>Equipamento eletromec&acirc;=
+nico
+  capaz de converter energia mec&acirc;nica em energia el&eacute;trica. Esta
+  fam&iacute;lia abrange os geradores el&eacute;tricos de tens&atilde;o nom=
+inal
+  superior a 1 kV.</td>
+  <td colspan=3D65 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt' xmlns=3D"">
+  <td height=3D17 style=3D'height:12.75pt'>M-26 - Equipamentos para
+  gera&ccedil;&atilde;o e distribui&ccedil;&atilde;o de e<span
+  style=3D'display:none'>nergia</span></td>
+  <td>98012884</td>
+  <td>[LCF] Offshore - Medium-Voltage Induction Motors (Ind<span
+  style=3D'display:none'>uction Motor with rated voltage &gt; 1kV)</span></=
+td>
+  <td>98012884 - [LCF] Offshore - Medium-Voltage Induction <span
+  style=3D'display:none'>Motors (Induction Motor with rated voltage &gt; 1k=
+V)</span></td>
+  <td>Estrat&eacute;gica</td>
+  <td colspan=3D21 style=3D'mso-ignore:colspan'>Asynchronous machine which =
+converts
+  electrical into mechanical energy, being composed of a three-phase stator
+  winding fed by alternating voltage and of a rotor with the windings
+  shortcircuited. This family is related to motors with rated voltage great=
+er than
+  1 kV and it is not applicable to submersible motors for sea water lift pu=
+mps.</td>
+  <td colspan=3D53 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt' xmlns=3D"">
+  <td height=3D17 style=3D'height:12.75pt'>M-26 - Equipamentos para
+  gera&ccedil;&atilde;o e distribui&ccedil;&atilde;o de e<span
+  style=3D'display:none'>nergia</span></td>
+  <td>98012885</td>
+  <td>[LCF] Onshore - Motores de Indu&ccedil;&atilde;o (&gt; 1kV)</td>
+  <td>98012885 - [LCF] Onshore - Motores de Indu&ccedil;&atilde;o (&gt; 1k<=
+span
+  style=3D'display:none'>V)</span></td>
+  <td>Estrat&eacute;gica</td>
+  <td colspan=3D40 style=3D'mso-ignore:colspan'>Esta especifica&ccedil;&ati=
+lde;o
+  estabelece os requisitos necess&aacute;rios para a qualifica&ccedil;&atil=
+de;o
+  e admiss&atilde;o na Lista Contratual de Fornecedores (LCF) para Motores =
+de
+  Indu&ccedil;&atilde;o de m&eacute;dia tens&atilde;o com pot&ecirc;ncia ma=
+ior
+  ou igual a 1,5MW (tens&atilde;o nominal maior que 1,0 kV e pot&ecirc;ncia
+  nominal maior que 1,5MW) da PETROBRAS.<br>
+    M&aacute;quina ass&iacute;ncrona que transforma energia el&eacute;trica=
+ em
+  mec&acirc;nica, possuindo um estator alimentado por tens&atilde;o alterna=
+da
+  constitu&iacute;do de um enrolamento trif&aacute;sico e um rotor com
+  enrolamentos curto-circuitados. Esta fam&iacute;lia engloba os motores de
+  indu&ccedil;&atilde;o com tens&atilde;o nominal superior a 1 kV.</td>
+  <td colspan=3D34 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt' xmlns=3D"">
+  <td height=3D17 style=3D'height:12.75pt'>M-26 - Equipamentos para
+  gera&ccedil;&atilde;o e distribui&ccedil;&atilde;o de e<span
+  style=3D'display:none'>nergia</span></td>
+  <td>98012894</td>
+  <td>[LCF] Motor El&eacute;trico S&iacute;ncrono</td>
+  <td>98012894 - [LCF] Motor El&eacute;trico S&iacute;ncrono</td>
+  <td>Estrat&eacute;gica</td>
+  <td colspan=3D10 style=3D'mso-ignore:colspan'>Motor com estator alimentad=
+o em
+  corrente alternada a qual produz um campo magn&eacute;tico girante que, em
+  opera&ccedil;&atilde;o normal, arrasta o rotor na mesma velocidade de
+  rota&ccedil;&atilde;o.</td>
+  <td colspan=3D64 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt' xmlns=3D"">
+  <td height=3D17 style=3D'height:12.75pt'>M-31 - Componentes e suprimentos
+  manufaturados</td>
+  <td>98012874</td>
+  <td>[LCF] Selo Mec&acirc;nico API 682</td>
+  <td>98012874 - [LCF] Selo Mec&acirc;nico API 682</td>
+  <td>Estrat&eacute;gica</td>
+  <td colspan=3D2 style=3D'mso-ignore:colspan'>Selos Mec&acirc;nicos em
+  conformidade com a norma API 682.</td>
+  <td colspan=3D72 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt' xmlns=3D"">
+  <td height=3D17 style=3D'height:12.75pt'>M-32 - Componentes e suprimentos
+  eletr&ocirc;nicos</td>
+  <td>98012694</td>
+  <td>[LCF] Offshore - PLC Programmable Logic Controller</td>
+  <td>98012694 - [LCF] Offshore - PLC Programmable Logic <span
+  style=3D'display:none'>Controller</span></td>
+  <td>Estrat&eacute;gica</td>
+  <td colspan=3D19 style=3D'mso-ignore:colspan'>digital electronic device t=
+hat uses
+  a programmable memory to internally store instructions and to implement
+  specific functions such as logic, sequencing, timing, counting and
+  arithmetic, controlling, through modules or expansions of inputs and outp=
+uts,
+  various types of processes or peripherals.</td>
+  <td colspan=3D55 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt' xmlns=3D"">
+  <td height=3D17 style=3D'height:12.75pt'>M-32 - Componentes e suprimentos
+  eletr&ocirc;nicos</td>
+  <td>98012784</td>
+  <td>[LCF] Offshore - Compressor Capacity Control System <span
+  style=3D'display:none'>for Performance, Load Sharing And Antisurge Cont</=
+span></td>
+  <td>98012784 - [LCF] Offshore - Compressor Capacity Con<span
+  style=3D'display:none'>trol System for Performance, Load Sharing And Anti=
+surge
+  Cont</span></td>
+  <td>Estrat&eacute;gica</td>
+  <td colspan=3D12 style=3D'mso-ignore:colspan'>This family of PETROBRAS Ve=
+ndor
+  List presents all models of Control Systems to be applied at Capacity, Lo=
+ad
+  Sharing And Antisurge Control for centrifugal compressors for offshore
+  production units.</td>
+  <td colspan=3D62 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt' xmlns=3D"">
+  <td height=3D17 style=3D'height:12.75pt'>M-39 - Suprimentos e acess&oacut=
+e;rios
+  de eletricidade e ilum<span style=3D'display:none'>ina&ccedil;&atilde;o</=
+span></td>
+  <td>98012886</td>
+  <td>[LCF] Onshore - Conversor de frequ&ecirc;ncia</td>
+  <td>98012886 - [LCF] Onshore - Conversor de frequ&ecirc;ncia</td>
+  <td>Estrat&eacute;gica</td>
+  <td colspan=3D35 style=3D'mso-ignore:colspan'>Esta especifica&ccedil;&ati=
+lde;o
+  estabelece os requisitos necess&aacute;rios para a qualifica&ccedil;&atil=
+de;o
+  e admiss&atilde;o na Lista Contratual de Fornecedores (LCF) para Converso=
+res
+  de Frequ&ecirc;ncia de M&eacute;dia Tens&atilde;o (tens&atilde;o nominal
+  maior que 1,0 kV e pot&ecirc;ncia nominal maior que 1,0 MW) da
+  PETROBRAS.<br>
+    Conversores ou inversores de frequ&ecirc;ncia s&atilde;o equipamentos q=
+ue
+  possibilitam a transforma&ccedil;&atilde;o de frequ&ecirc;ncia e
+  tens&atilde;o fixas da fonte de alimenta&ccedil;&atilde;o em frequ&ecirc;=
+ncia
+  e tens&atilde;o continuamente ajust&aacute;veis para controle de
+  rota&ccedil;&atilde;o de motores el&eacute;tricos.</td>
+  <td colspan=3D39 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt' xmlns=3D"">
+  <td height=3D17 style=3D'height:12.75pt'>M-40 - Sistemas de
+  distribui&ccedil;&atilde;o e condicionamento, eq<span style=3D'display:no=
+ne'>uipamentos
+  e componentes</span></td>
+  <td>98012765</td>
+  <td>[LCF] Electric Process Heaters</td>
+  <td>98012765 - [LCF] Electric Process Heaters</td>
+  <td>Estrat&eacute;gica</td>
+  <td colspan=3D19 style=3D'mso-ignore:colspan'>Electric Process Heaters co=
+mprises
+  heater bundle assemblies, the associated pressure vessel, as well as power
+  and control panels, intended for process services, as Molecular Sieve
+  Regeneration and TEG Regeneration Reboiler.<br>
+    <br>
+    Note:<br>
+    <br>
+    1) This qualification does not apply for auxiliary systems.</td>
+  <td colspan=3D55 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt' xmlns=3D"">
+  <td height=3D17 style=3D'height:12.75pt'>M-40 - Sistemas de
+  distribui&ccedil;&atilde;o e condicionamento, eq<span style=3D'display:no=
+ne'>uipamentos
+  e componentes</span></td>
+  <td>98012785</td>
+  <td>[LCF] Compressor API 617</td>
+  <td>98012785 - [LCF] Compressor API 617</td>
+  <td>Estrat&eacute;gica</td>
+  <td colspan=3D10 style=3D'mso-ignore:colspan'>Compressor do tipo din&acir=
+c;mico
+  segundo padr&atilde;o construtivo API 617. Esta fam&iacute;lia de material
+  compreende o fornecimento somente do equipamento movido independente do
+  acionador.</td>
+  <td colspan=3D64 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt' xmlns=3D"">
+  <td height=3D17 style=3D'height:12.75pt'>M-40 - Sistemas de
+  distribui&ccedil;&atilde;o e condicionamento, eq<span style=3D'display:no=
+ne'>uipamentos
+  e componentes</span></td>
+  <td>98012795</td>
+  <td>[LCF] Bombas API 610</td>
+  <td>98012795 - [LCF] Bombas API 610</td>
+  <td>Estrat&eacute;gica</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'>Bomba centrifuga horizontal/=
+vertical
+  em conformidade com a norma API 610.</td>
+  <td colspan=3D71 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt' xmlns=3D"">
+  <td height=3D17 style=3D'height:12.75pt'>M-40 - Sistemas de
+  distribui&ccedil;&atilde;o e condicionamento, eq<span style=3D'display:no=
+ne'>uipamentos
+  e componentes</span></td>
+  <td>98012796</td>
+  <td>[LCF] Compressor centr&iacute;fugo API 619</td>
+  <td>98012796 - [LCF] Compressor centr&iacute;fugo API 619</td>
+  <td>Estrat&eacute;gica</td>
+  <td colspan=3D4 style=3D'mso-ignore:colspan'>Compressor de tipo deslocame=
+nto
+  positivo de parafusos segundo padr&atilde;o construtivo API 619.</td>
+  <td colspan=3D70 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt' xmlns=3D"">
+  <td height=3D17 style=3D'height:12.75pt'>M-40 - Sistemas de
+  distribui&ccedil;&atilde;o e condicionamento, eq<span style=3D'display:no=
+ne'>uipamentos
+  e componentes</span></td>
+  <td>98012797</td>
+  <td>[LCF] Compressor alternativo API 618</td>
+  <td>98012797 - [LCF] Compressor alternativo API 618</td>
+  <td>Estrat&eacute;gica</td>
+  <td colspan=3D17 style=3D'mso-ignore:colspan'>Unidade de compress&atilde;o
+  conforme padr&atilde;o construtivo API 618. Esta fam&iacute;lia de materi=
+al
+  compreende o fornecimento do compressor, acionador, sistema de
+  lubrifica&ccedil;&atilde;o, trocador de calor, painel de
+  automa&ccedil;&atilde;o, garrafas de pulsa&ccedil;&atilde;o, skid, dentre
+  outros componentes da unidade.</td>
+  <td colspan=3D57 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt' xmlns=3D"">
+  <td height=3D17 style=3D'height:12.75pt'>M-40 - Sistemas de
+  distribui&ccedil;&atilde;o e condicionamento, eq<span style=3D'display:no=
+ne'>uipamentos
+  e componentes</span></td>
+  <td>98012798</td>
+  <td>[LCF] Compressor centr&iacute;fugo API 672</td>
+  <td>98012798 - [LCF] Compressor centr&iacute;fugo API 672</td>
+  <td>Estrat&eacute;gica</td>
+  <td colspan=3D16 style=3D'mso-ignore:colspan'>Compressor do tipo din&acir=
+c;mico
+  &quot;integrally geared&quot; para compress&atilde;o de ar de servi&ccedi=
+l;o
+  e instrumentos segundo padr&atilde;o construtivo API 672. Excluem-se desta
+  fam&iacute;lia os compressores de uso especial em servi&ccedil;os de ar de
+  processo que s&atilde;o cobertos pela API 617.</td>
+  <td colspan=3D58 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt' xmlns=3D"">
+  <td height=3D17 style=3D'height:12.75pt'>M-40 - Sistemas de
+  distribui&ccedil;&atilde;o e condicionamento, eq<span style=3D'display:no=
+ne'>uipamentos
+  e componentes</span></td>
+  <td>98012804</td>
+  <td>[LCF] Forno de processo</td>
+  <td>98012804 - [LCF] Forno de processo</td>
+  <td>Estrat&eacute;gica</td>
+  <td colspan=3D34 style=3D'mso-ignore:colspan'>Fornos de processo sujeitos=
+ a chama
+  utilizados em refinaria de petr&oacute;leo e instala&ccedil;&otilde;es
+  petroqu&iacute;micas em geral, com a finalidade de aquecer, vaporizar ou
+  promover a rea&ccedil;&atilde;o de hidrocarbonetos. Quando o escopo de fo=
+rnecimento
+  incluir equipamentos auxiliares, estes devem seguir os requisitos das
+  respectivas fam&iacute;lias.<span style=3D'mso-spacerun:yes'>&nbsp;
+  </span>Exceto para fornos de reforma a vapor e de pir&oacute;lise, os for=
+nos
+  desta fam&iacute;lia devem atender os requisitos do API STD 560.<br>
+    N&atilde;o se enquadram nesta fam&iacute;lia de material os fornos de
+  utilidades.</td>
+  <td colspan=3D40 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt' xmlns=3D"">
+  <td height=3D17 style=3D'height:12.75pt'>M-40 - Sistemas de
+  distribui&ccedil;&atilde;o e condicionamento, eq<span style=3D'display:no=
+ne'>uipamentos
+  e componentes</span></td>
+  <td>98012814</td>
+  <td>[LCF] Queimadores industriais para fornos de processo</td>
+  <td>98012814 - [LCF] Queimadores industriais para fornos <span
+  style=3D'display:none'>de processo</span></td>
+  <td>Estrat&eacute;gica</td>
+  <td colspan=3D59 style=3D'mso-ignore:colspan'>S&atilde;o equipamentos que=
+ geram
+  energia t&eacute;rmica (calor) a partir da rea&ccedil;&atilde;o de
+  oxida&ccedil;&atilde;o (combust&atilde;o) de um combust&iacute;vel. Tem as
+  fun&ccedil;&otilde;es de admitir quantidades espec&iacute;ficas de combus=
+t&iacute;vel
+  e de ar para a c&acirc;mara de combust&atilde;o, promover a sua mistura de
+  forma homog&ecirc;nea e propiciar condi&ccedil;&otilde;es para a queima
+  cont&iacute;nua do combust&iacute;vel. No caso de combust&iacute;veis
+  l&iacute;quidos, pulverizar e vaporizar o combust&iacute;vel.<br>
+    Podem ser com ou sem pr&eacute;-mistura, no caso do combust&iacute;vel =
+ser
+  g&aacute;s, e com nebuliza&ccedil;&atilde;o mec&acirc;nica ou por
+  flu&iacute;do auxiliar (vapor d'&aacute;gua ou ar) se o combust&iacute;vel
+  for l&iacute;quido. Podem ser ainda, de queima simples (um s&oacute;
+  combust&iacute;vel) ou combinada (mais de um combust&iacute;vel- &oacute;=
+leo
+  e g&aacute;s).<br>
+    Contempla queimadores para fornos de processo somente, em atendimento &=
+agrave;
+  norma API 560. N&atilde;o contempla queimadores para caldeiras e sistemas=
+ de
+  tocha (flare).</td>
+  <td colspan=3D15 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt' xmlns=3D"">
+  <td height=3D17 style=3D'height:12.75pt'>M-40 - Sistemas de
+  distribui&ccedil;&atilde;o e condicionamento, eq<span style=3D'display:no=
+ne'>uipamentos
+  e componentes</span></td>
+  <td>98012844</td>
+  <td>[LCF] Permutador de calor casco-tubo cabe&ccedil;ote TEMA<span
+  style=3D'display:none'> tipo D</span></td>
+  <td>98012844 - [LCF] Permutador de calor casco-tubo cab<span
+  style=3D'display:none'>e&ccedil;ote TEMA tipo D</span></td>
+  <td>Estrat&eacute;gica</td>
+  <td colspan=3D13 style=3D'mso-ignore:colspan'>Trocador de calor de acordo=
+ com a
+  API Std 660 , com padr&atilde;o construtivo de acordo com a TEMA Classe R,
+  com tampo (cabe&ccedil;ote) TEMA Tipo D, e projeto mec&acirc;nico do vaso=
+ de
+  press&atilde;o pelo ASME BPVC Section VIII.</td>
+  <td colspan=3D61 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt' xmlns=3D"">
+  <td height=3D17 style=3D'height:12.75pt'>M-40 - Sistemas de
+  distribui&ccedil;&atilde;o e condicionamento, eq<span style=3D'display:no=
+ne'>uipamentos
+  e componentes</span></td>
+  <td>98012875</td>
+  <td>[LCF] Filtro cartucho para unidades de hidroprocessam<span
+  style=3D'display:none'>ento</span></td>
+  <td>98012875 - [LCF] Filtro cartucho para unidades de hidr<span
+  style=3D'display:none'>oprocessamento</span></td>
+  <td>Estrat&eacute;gica</td>
+  <td colspan=3D64 style=3D'mso-ignore:colspan'>O sistema de
+  filtra&ccedil;&atilde;o com cartuchos descart&aacute;veis utilizados nas
+  cargas de unidades de hidroprocessamento s&atilde;o equipamentos que inte=
+gram
+  a se&ccedil;&atilde;o de carga dessas unidades. Seu objetivo &eacute; a
+  reten&ccedil;&atilde;o de particulados para evitar a deposi&ccedil;&atild=
+e;o
+  destes na bateria de aquecimento e reatores, onde pode gerar
+  eleva&ccedil;&atilde;o do diferencial de press&atilde;o neste sistema e
+  diminui&ccedil;&atilde;o da efici&ecirc;ncia de troca t&eacute;rmica nos
+  permutadores de pr&eacute;-aquecimento e forno, o que pode ocasionar a
+  redu&ccedil;&atilde;o do tempo de campanha da unidade.<br>
+    Filtros do tipo cartucho geralmente s&atilde;o aplicados em unidades de
+  hidrotratamento de correntes de destila&ccedil;&atilde;o direta de destil=
+ados
+  leves e m&eacute;dios (Nafta, Diesel e Querosene de Avia&ccedil;&atilde;o)
+  assim como em correntes de &oacute;leos vegetais e gorduras, onde o
+  bin&ocirc;mio capacidade da unidade/teor de particulados n&atilde;o acarr=
+ete
+  a substitui&ccedil;&atilde;o dos elementos filtrantes em intervalos
+  inferiores &agrave; dois ou tr&ecirc;s meses.</td>
+  <td colspan=3D10 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt' xmlns=3D"">
+  <td height=3D17 style=3D'height:12.75pt'>M-41 - Equipamentos para
+  medi&ccedil;&atilde;o, testes, observa&ccedil;&atilde;<span style=3D'disp=
+lay:
+  none'>o e laborat&oacute;rio</span></td>
+  <td>98012624</td>
+  <td>[LCF] Offshore - Oil-in-Water Analyzer</td>
+  <td>98012624 - [LCF] Offshore - Oil-in-Water Analyzer</td>
+  <td>Estrat&eacute;gica</td>
+  <td colspan=3D29 style=3D'mso-ignore:colspan'>Oil-in-Water Analyser is
+  side-stream mounted analyzer using the ultraviolet<br>
+    radiation fluorescence technique that is based on measuring the intensi=
+ty
+  of light relayed by the water sample at a specific wavelength longer than=
+ the
+  received one.<br>
+    It shall include, at least, but not limited to:<br>
+    &middot; Probe to collect the sample.<br>
+    &middot; Sample collecting point.<br>
+    &middot; Sampling conditioning system.<br>
+    &middot; Local display.<br>
+    &middot; All necessary accessories for operation and installation.</td>
+  <td colspan=3D45 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt' xmlns=3D"">
+  <td height=3D17 style=3D'height:12.75pt'>M-41 - Equipamentos para
+  medi&ccedil;&atilde;o, testes, observa&ccedil;&atilde;<span style=3D'disp=
+lay:
+  none'>o e laborat&oacute;rio</span></td>
+  <td>98012634</td>
+  <td>[LCF] Offshore - Moisture analyzer</td>
+  <td>98012634 - [LCF] Offshore - Moisture analyzer</td>
+  <td>Estrat&eacute;gica</td>
+  <td colspan=3D32 style=3D'mso-ignore:colspan'>Moisture analyser shall be =
+quartz
+  crystal type or Tunable Diode Laser<br>
+    Absorption Spectroscopy (TDLAS) in order to measure the water content in
+  gas stream.<br>
+    It shall include, at least, but not limited to:<br>
+    - Probe with moisture, temperature and pressure sensing elements, the<b=
+r>
+    electronic module shall transmit these signals to the analyzer
+  transmitter.<br>
+    - Sample collecting point,<br>
+    - Sampling conditioning system<br>
+    - Local display<br>
+    - All necessary accessories for operation and installation</td>
+  <td colspan=3D42 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt' xmlns=3D"">
+  <td height=3D17 style=3D'height:12.75pt'>M-41 - Equipamentos para
+  medi&ccedil;&atilde;o, testes, observa&ccedil;&atilde;<span style=3D'disp=
+lay:
+  none'>o e laborat&oacute;rio</span></td>
+  <td>98012855</td>
+  <td>[LCF] Offshore - Flare gas ultrasonic flow transmitter</td>
+  <td>98012855 - [LCF] Offshore - Flare gas ultrasonic flow tr<span
+  style=3D'display:none'>ansmitter</span></td>
+  <td>Estrat&eacute;gica</td>
+  <td colspan=3D3 style=3D'mso-ignore:colspan'>Ultrasonic flow transmitter/=
+meter,
+  used in the measurement of torch/flare or vent gas.</td>
+  <td colspan=3D71 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt' xmlns=3D"">
+  <td height=3D17 style=3D'height:12.75pt'>M-43 - Componentes e suprimentos=
+ de
+  comunica&ccedil;&otilde;es <span style=3D'display:none'>e inform&aacute;t=
+ica</span></td>
+  <td>98012655</td>
+  <td>[LCF] Offshore - Units&nbsp;Supervision and Operation Syste<span
+  style=3D'display:none'>m (SOS)</span></td>
+  <td>98012655 - [LCF] Offshore - Units&nbsp;Supervision and Ope<span
+  style=3D'display:none'>ration System (SOS)</span></td>
+  <td>Estrat&eacute;gica</td>
+  <td colspan=3D45 style=3D'mso-ignore:colspan'>A full system used for read=
+ing real
+  time data from field equipment (programmable logic controllers) and
+  presenting real time data, alarms and events in screens in graphic format=
+, as
+  well as functionalities of reports generating, alarm acknowledgement, ala=
+rm
+  summary, alarm history, object colors change based on field data readings=
+ and
+  others. SOS is composed by a set of redundant Real Time Data Servers that
+  acquire data from field equipment and communicate with Operation
+  Workstations. It also has at least one workstation used to configure the
+  software, named Engineering Workstation. These servers and workstations w=
+ill
+  be installed in virtual servers.</td>
+  <td colspan=3D29 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <tr height=3D17 style=3D'height:12.75pt' xmlns=3D"">
+  <td height=3D17 style=3D'height:12.75pt'>M-46 - Equipamentos e suprimento=
+s de
+  defesa, segura<span style=3D'display:none'>n&ccedil;a pessoal, industrial=
+ e
+  patrimonial</span></td>
+  <td>98012775</td>
+  <td>[LCF] Offshore - Flame detector (fire)</td>
+  <td>98012775 - [LCF] Offshore - Flame detector (fire)</td>
+  <td>Estrat&eacute;gica</td>
+  <td colspan=3D5 style=3D'mso-ignore:colspan'>Instrument that detects the =
+presence
+  of a flame through the irradiation of the flame frequency spectrum.</td>
+  <td colspan=3D69 style=3D'mso-ignore:colspan'></td>
+ </tr>
+ <![if supportMisalignedColumns]>
+ <tr height=3D0 style=3D'display:none'>
+  <td width=3D320 style=3D'width:240pt'></td>
+  <td width=3D320 style=3D'width:240pt'></td>
+  <td width=3D320 style=3D'width:240pt'></td>
+  <td width=3D320 style=3D'width:240pt'></td>
+  <td width=3D73 style=3D'width:55pt'></td>
+  <td width=3D320 style=3D'width:240pt'></td>
+  <td width=3D96 style=3D'width:72pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+  <td width=3D80 style=3D'width:60pt'></td>
+ </tr>
+ <![endif]>
+</table>
+
+</body>
+
+</html>
+
+------=_NextPart_01D8D2D2.23666D70
+Content-Location: file:///C:/5037ADD9/EXPORT_FAMILY_arquivos/sheet002.htm
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="us-ascii"
+
+<html xmlns:o=3D"urn:schemas-microsoft-com:office:office"
+xmlns:x=3D"urn:schemas-microsoft-com:office:excel"
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dus-ascii">
+<meta name=3DProgId content=3DExcel.Sheet>
+<meta name=3DGenerator content=3D"Microsoft Excel 15">
+<link id=3DMain-File rel=3DMain-File href=3D"../EXPORT_FAMILY.htm">
+<link rel=3DFile-List href=3Dfilelist.xml>
+<![if IE]>
+<base href=3D"file:///C:/5037ADD9/EXPORT_FAMILY_arquivos/sheet002.htm"
+id=3D"webarch_temp_base_tag">
+<![endif]>
+<link rel=3DStylesheet href=3Dstylesheet.css>
+<style>
+<!--table
+	{mso-displayed-decimal-separator:"\,";
+	mso-displayed-thousand-separator:"\.";}
+@page
+	{margin:.98in .79in .98in .79in;
+	mso-header-margin:.49in;
+	mso-footer-margin:.49in;}
+-->
+</style>
+<![if !supportTabStrip]><script language=3D"JavaScript">
+<!--
+function fnUpdateTabs()
+ {
+  if (parent.window.g_iIEVer>=3D4) {
+   if (parent.document.readyState=3D=3D"complete"
+    && parent.frames['frTabs'].document.readyState=3D=3D"complete")
+   parent.fnSetActiveSheet(1);
+  else
+   window.setTimeout("fnUpdateTabs();",150);
+ }
+}
+
+if (window.name!=3D"frSheet")
+ window.location.replace("../EXPORT_FAMILY.htm");
+else
+ fnUpdateTabs();
+//-->
+</script>
+<![endif]>
+</head>
+
+<body link=3Dblue vlink=3Dpurple>
+
+<table border=3D0 cellpadding=3D0 cellspacing=3D0 width=3D64 style=3D'borde=
+r-collapse:
+ collapse;table-layout:fixed;width:48pt'>
+ <col width=3D64 style=3D'width:48pt'>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 width=3D64 style=3D'height:15.0pt;width:48pt'></td>
+ </tr>
+ <![if supportMisalignedColumns]>
+ <tr height=3D0 style=3D'display:none'>
+  <td width=3D64 style=3D'width:48pt'></td>
+ </tr>
+ <![endif]>
+</table>
+
+</body>
+
+</html>
+
+------=_NextPart_01D8D2D2.23666D70
+Content-Location: file:///C:/5037ADD9/EXPORT_FAMILY_arquivos/sheet003.htm
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="us-ascii"
+
+<html xmlns:o=3D"urn:schemas-microsoft-com:office:office"
+xmlns:x=3D"urn:schemas-microsoft-com:office:excel"
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dus-ascii">
+<meta name=3DProgId content=3DExcel.Sheet>
+<meta name=3DGenerator content=3D"Microsoft Excel 15">
+<link id=3DMain-File rel=3DMain-File href=3D"../EXPORT_FAMILY.htm">
+<link rel=3DFile-List href=3Dfilelist.xml>
+<![if IE]>
+<base href=3D"file:///C:/5037ADD9/EXPORT_FAMILY_arquivos/sheet003.htm"
+id=3D"webarch_temp_base_tag">
+<![endif]>
+<link rel=3DStylesheet href=3Dstylesheet.css>
+<style>
+<!--table
+	{mso-displayed-decimal-separator:"\,";
+	mso-displayed-thousand-separator:"\.";}
+@page
+	{margin:.98in .79in .98in .79in;
+	mso-header-margin:.49in;
+	mso-footer-margin:.49in;}
+-->
+</style>
+<![if !supportTabStrip]><script language=3D"JavaScript">
+<!--
+function fnUpdateTabs()
+ {
+  if (parent.window.g_iIEVer>=3D4) {
+   if (parent.document.readyState=3D=3D"complete"
+    && parent.frames['frTabs'].document.readyState=3D=3D"complete")
+   parent.fnSetActiveSheet(2);
+  else
+   window.setTimeout("fnUpdateTabs();",150);
+ }
+}
+
+if (window.name!=3D"frSheet")
+ window.location.replace("../EXPORT_FAMILY.htm");
+else
+ fnUpdateTabs();
+//-->
+</script>
+<![endif]>
+</head>
+
+<body link=3Dblue vlink=3Dpurple>
+
+<table border=3D0 cellpadding=3D0 cellspacing=3D0 width=3D64 style=3D'borde=
+r-collapse:
+ collapse;table-layout:fixed;width:48pt'>
+ <col width=3D64 style=3D'width:48pt'>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 width=3D64 style=3D'height:15.0pt;width:48pt'></td>
+ </tr>
+ <![if supportMisalignedColumns]>
+ <tr height=3D0 style=3D'display:none'>
+  <td width=3D64 style=3D'width:48pt'></td>
+ </tr>
+ <![endif]>
+</table>
+
+</body>
+
+</html>
+
+------=_NextPart_01D8D2D2.23666D70
+Content-Location: file:///C:/5037ADD9/EXPORT_FAMILY_arquivos/filelist.xml
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/xml; charset="utf-8"
+
+<xml xmlns:o=3D"urn:schemas-microsoft-com:office:office">
+ <o:MainFile HRef=3D"../EXPORT_FAMILY.htm"/>
+ <o:File HRef=3D"stylesheet.css"/>
+ <o:File HRef=3D"tabstrip.htm"/>
+ <o:File HRef=3D"sheet001.htm"/>
+ <o:File HRef=3D"sheet002.htm"/>
+ <o:File HRef=3D"sheet003.htm"/>
+ <o:File HRef=3D"filelist.xml"/>
+</xml>
+------=_NextPart_01D8D2D2.23666D70--
